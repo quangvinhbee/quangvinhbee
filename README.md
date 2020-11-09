@@ -20,9 +20,13 @@
   <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/socketio/socketio-ar21.svg"></code> 
+  <code><img width="10%" src="https://miro.medium.com/max/3000/1*ez6AmVKmBWWM0SaFrMEIDA.png"></code> 
   <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-ar21.svg"></code>
+  <br />
+  <code><img width="10%" src="https://petapixel.com/assets/uploads/2020/06/pslogo.gif"></code>
+  <code><img width="10%" src="https://10crack.com/wp-content/uploads/2019/09/Adobe-Illustrator-CC-2020-Crack-Version-Free-Download.png"></code>
+  <code><img width="10%" src="https://i.postimg.cc/52Mmgntp/1296310_abe6_3.jpg"></code>
 </p>
