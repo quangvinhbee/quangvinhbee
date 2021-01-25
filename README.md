@@ -8,7 +8,7 @@
 
 <p>
   <a href="https://github.com/quangvinhbee">
-    <img width="55%" align="right" alt="Holala Star" src="https://github-readme-stats.vercel.app/api?username=quangvinhbee&show_icons=true&hide_border=true" />
+    <img width="55%" align="right" alt="Holala Star" src="https://github-readme-stats.vercel.app/api?username=quangvinhbee&show_icons=true&hide_border=true&theme=buefy" />
   </a>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg"></code>
